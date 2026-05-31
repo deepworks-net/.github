@@ -1,6 +1,8 @@
 # Deepworks (deepworks-net)
 
-The Software Engineering wing of the Institute of Conceptual Studies, Deepworks is dedicated to creating open source tools and standards that enhance microservices development, ensure code consistency, and provide robust solutions to common engineering challenges.
+The Software Engineering wing of the Institute of Conceptual Studies, Deepworks is dedicated to creating open source tools and standards that enhance development, ensure code consistency, and provide robust solutions to common engineering challenges. Our work is grounded in **Formal Conceptual Models (FCM)** — treating infrastructure as formally-defined, composable systems rather than ad-hoc scripts.
+
+> _Great tasting code, just like mom used to make!_
 
 ## Our Mission
 
@@ -13,23 +15,22 @@ To quiet the DIY voice in developers' heads by providing well-crafted, standardi
 
 ## Core Projects
 
-### GitHub Actions
+### GitHub Toolkit
 
-Our [github.actions](https://github.com/deepworks-net/github.actions) repository contains reusable workflows for:
+Our [github.toolkit](https://github.com/deepworks-net/github.toolkit) repository provides abstracted, reusable GitHub Actions — built from FCM definitions on a six-layer architecture — for:
 
-- Documentation deployment
+- Version calculation
 - Release management
 - Changelog maintenance
-- Quality assurance
+- Branch, tag, and commit operations
 
-### Framework
+### Formal Conceptual Models
 
-The Deepworks Framework (`DeepWork`) provides:
+The FCM approach underpins our tooling:
 
-- Microservices development standards
-- Code quality tools
-- Project templates
-- Shared utilities
+- Formally-defined, composable building blocks
+- A bridge architecture mapping models to GitHub-native compatibility
+- Standardized project templates and shared utilities
 
 ## Organization Structure
 
@@ -79,6 +80,7 @@ All repositories use:
 ## Contact & Support
 
 - [Organization GitHub](https://github.com/deepworks-net)
+- Email: support@deepworks.net
 - Project-specific issues should be raised in their respective repositories
 
 ## License

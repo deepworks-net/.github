@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/deepworks-net/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not as public issues.
+  - name: Questions & support
+    url: https://github.com/deepworks-net/.github/blob/main/SUPPORT.md
+    about: General questions and where to get help.
+  - name: Email Deepworks
+    url: mailto:support@deepworks.net
+    about: Reach the Deepworks team directly.
