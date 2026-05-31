@@ -2,7 +2,7 @@
 
 > _Great tasting code, just like mom used to make!_
 
-**Deepworks** is the software-engineering wing of the [Institute of Conceptual Studies](https://github.com/deepworks-net). We build open-source tooling, reusable automation, and engineering standards grounded in **Formal Conceptual Models (FCM)** — the idea that infrastructure should be formally defined and composable, not ad-hoc.
+**Deepworks** is the software-engineering wing of the [Institute of Conceptual Studies](https://tiocs.io). We build open-source tooling, reusable automation, and engineering standards grounded in **Formal Conceptual Models (FCM)** — the idea that infrastructure should be formally defined and composable, not ad-hoc.
 
 ---
 
